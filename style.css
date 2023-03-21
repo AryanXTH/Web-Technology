@@ -14,7 +14,7 @@
 .card{
     width: 25rem;
     height: 25rem;
-    color: aqua;
+    color: rgb(0, 0, 0);
 
     display: grid;
     grid-template-rows: 1fr 0;
@@ -29,6 +29,23 @@
 .card:hover{
     grid-template-rows: 1fr 6rem;
     
+}
+.navbar{
+    width: 85px;
+    padding: 35px 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-self: space-between;
+
+
+    
+}
+.navbar ul li{
+    list-style-type: style none;
+    display: image;
+    
+
 }
 
     
