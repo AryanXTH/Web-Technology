@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: auto;
+}
+/* body{
+    background-image: url("herald\ logo.jpg");
+    height:50px;
+    background-position: center;
+    background-size: cover;
+    
+} */
+a{
+    font-size: 20px;
+    
+}
+i{
+ font-size: 20px;
+}
+#arya{
+    font-family: 'Poppins', sans-serif;
+
+}
+.arya{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+p{
+    font-size: 20px;
+}
+aside{
+    width: 30%;
+    padding: 15px;
+    float: right;
+    font-style: italic;
+    font-weight: 700;
+    background-color: aliceblue;
+}
+button{
+    padding: 10px;
+    margin-right: 12px;
+    margin-top: 12px;
+    
+    
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(58, 6, 230);
+    color:black;
+    scale: 1.5;
+}

@@ -1,0 +1,27 @@
+input {
+    margin-top:15px;
+    border-radius: 10px;
+    width: 95%;
+
+}
+button{
+    border-radius: 8px;
+    color:white;
+    padding: 5px;
+    background-color: rgb(27, 15, 61);
+    margin-left: 30px;
+    margin: 20px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+form{
+    background-color: antiquewhite;
+    width: 20%;
+    padding: 20px;
+}
